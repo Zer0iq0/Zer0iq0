@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  𝕏 : (zen.zer0)[https://x.com/Zen_Zero0?t=athCviqfyiKtzqw6mab4Mw&s=09]
+𝕏 : <a href="https://x.com/Zen_Zero0?t=athCviqfyiKtzqw6mab4Mw&s=09">zen.zer0</a>
 </p>
 
 <h3 align="left">Learning:</h3>
