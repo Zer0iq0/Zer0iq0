@@ -26,6 +26,6 @@
         </p>
     </div>
     <div style="width: 30%; text-align: right;">
-        <img src="artpictures.club/view.php?img=https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" alt="Your Image" style="max-width: 100%; height: auto; border-radius: 10px;">
+        <img src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" alt="Your Image" style="max-width: 100%; height: auto; border-radius: 10px;">
     </div>
 </div>
