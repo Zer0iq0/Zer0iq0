@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zer0iq</h1>
 <h3 align="center">A begginer dev, want to be a game dev</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">What I'm using:</h3>
 <p align="left">
-𝕏 : <a href="https://x.com/Zen_Zero0?t=athCviqfyiKtzqw6mab4Mw&s=09">zen.zer0</a>
+<b>OS :</b> Arch linux.<br>
+<b>Editor : </b>Neovim<br>
 </p>
 
 <h3 align="left">Learning:</h3>
@@ -17,4 +18,9 @@
   <li>Cmake</li>
   <li>Math</li>
 </ul>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+𝕏 : <a href="https://x.com/Zen_Zero0?t=athCviqfyiKtzqw6mab4Mw&s=09">zen.zer0</a>
 </p>
