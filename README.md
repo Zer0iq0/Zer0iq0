@@ -10,8 +10,8 @@
         <p>
             <ul>
                 <li>Godot</li>
-                <li>Math</li>
-                <li>physics</li>
+                <li>DSA</li>
+                <li>C++</li>
             </ul>
         </p>
         <h3 align="left">Connect with me:</h3>
