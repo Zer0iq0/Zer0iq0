@@ -9,7 +9,7 @@
         <h3 align="left">Learning:</h3>
         <p>
             <ul>
-                <li>Godot</li>
+                <li>sfml</li>
                 <li>DSA</li>
                 <li>C++</li>
             </ul>
