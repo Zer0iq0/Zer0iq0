@@ -1,7 +1,7 @@
 <h1 align=center> Hi 👋 My name is Zer0iq </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%f1c2c1cb&size=25&center=true&vCenter=true&width=600&height=100&lines=I+don't+want+peace.;I+want+problems.;Self-learing;Game+developer" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%f1c2c1cb&size=25&center=true&vCenter=true&width=600&height=100&lines=I+don't+want+peace.;I+want+problems.;Self-learing;Game+developer" alt="Typing SVG" />
 </p>
 
 About me
