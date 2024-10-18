@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Zer0iq</h1>
-<h3 align="center">A beginner dev, want to be a game dev</h3>
-    <div style="width: 60%;">
-        <h3 align="left">What I'm using:</h3>
-        <p align="left">
-            <b>OS :</b> Arch Linux.<br>
-            <b>Editor : </b> Neovim<br>
-        </p>
-        <h3 align="left">Learning:</h3>
-        <p>
-            <ul>
-                <li>sfml</li>
-                <li>DSA</li>
-                <li>C++</li>
-            </ul>
-        </p>
-        <h3 align="left">Connect with me:</h3>
-        <p align="left">
-            𝕏 : <a href="https://x.com/Zen_Zero0?t=athCviqfyiKtzqw6mab4Mw&s=09">zen.zer0</a>
-        </p>
+Hi 👋 My name is Zer0iq
+==============================================================================================================================
+
+About me
+--------
+
+I like a game development.
+And little bit interested in Ai and ML.
+
+*   🌍  I'm based in Iraq
+*   🧠  I'm learning DSA & Sfml & Qt
+
+### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+
+### Socials
+                  
+<p align="left"> <a href="http://www.instagram.com/zer0.iq0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/zer0iq0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
