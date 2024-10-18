@@ -1,9 +1,7 @@
 <h1 align=center> Hi 👋 My name is Zer0iq </h1>
 
 <p align="center">
-  <a  href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%f1c2c1cb&size=25&center=true&vCenter=true&width=600&height=100&lines=Game+developer;Give+me+your+knowledge;Self-learing;I+do+not+want+peace;I+want+problems">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%f1c2c1cb&size=25&center=true&vCenter=true&width=600&height=100&lines=I+don't+want+peace.;I+want+problems.;Self-learing;Game+developer" alt="Typing SVG" /></a>
 </p>
 
 About me
