@@ -18,4 +18,4 @@
         <p align="left">
             𝕏 : <a href="https://x.com/Zen_Zero0?t=athCviqfyiKtzqw6mab4Mw&s=09">zen.zer0</a>
         </p>
-![Codewars](https://github.r2v.ch/codewars?user=Zer0iq0&stroke=%23BB432C)
+![Codewars](https://www.codewars.com/users/Zer0iq0/badges/micro))
