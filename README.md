@@ -10,7 +10,7 @@
 
 <h3 align="left">Programming Languages:</h3>
 
-<p align="left">My primary language is C++, which deepens my understanding of core programming concepts and design. I'm also excited to expand my skillset with Rust.</p>
+<p align="left">My primary language is C++, which deepens my understanding of core programming concepts and design. I'm also excited to expand my skillset with Zig</p>
 
 <a href="https://www.codewars.com/users/Zer0iq0"><img src="https://www.codewars.com/users/Zer0iq0/badges/micro"></a>
 <br>
@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
 </div>
