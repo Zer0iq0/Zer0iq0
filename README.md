@@ -25,7 +25,7 @@
 
 <h3 align="left">Tools:</h3>
 
-<p align="left">These the Tools That I use to create my game:<br><br>⚙️ <b>Engine</b>: My code & SFML (planning to dive deeper into full game engine development later)<br><br>🖌️ <b>drawing</b>: Krita</p>
+<p align="left">These the Tools That I use to create my game:<br><br>⚙️ <b>Engine</b>: My code & OpenGL (planning to dive deeper into full game engine development later)<br><br>🖌️ <b>drawing</b>: Krita</p>
 
 <p align="left"></p>
 
