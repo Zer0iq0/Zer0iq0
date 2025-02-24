@@ -4,7 +4,7 @@
 
 <img align="right" height="170" src="https://pa1.narvii.com/6012/8a10f08a07fc97b392249973c5d184dca437c909_hq.gif"  />
 
-<p align="left">Aspiring Game Developer.<br><br>Currently learning: DSA & SFML & Qt.<br><br>Trying build a strong programming mindset amidst the wave of AI advancements.<br><br> To be continued...</p>
+<p align="left">Aspiring Game Developer.<br><br>Currently learning: DSA & OpenGL.<br><br>Trying build a strong programming mindset amidst the wave of AI advancements.<br><br> To be continued...</p>
 
 <h2 align="left">My Skills :</h2>
 
